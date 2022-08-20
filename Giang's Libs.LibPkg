@@ -48,40 +48,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=BLUEPILL.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JAIVEHBR
-
-[Document2]
-DocumentPath=BLUEPILL.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EBSTWMNL
-
-[Document3]
 DocumentPath=ARDUINO_NANO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -98,7 +64,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJYAODXU
 
-[Document4]
+[Document2]
 DocumentPath=ARDUINO_NANO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -115,7 +81,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VQHKNOQS
 
-[Document5]
+[Document3]
 DocumentPath=DRV8833_DRIVER.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,7 +98,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEVVKOND
 
-[Document6]
+[Document4]
 DocumentPath=DRV8833_DRIVER.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -149,7 +115,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NIQQJLAY
 
-[Document7]
+[Document5]
 DocumentPath=HOLE_2mm.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -166,7 +132,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RHXAIRUG
 
-[Document8]
+[Document6]
 DocumentPath=HOLE_2mm.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -183,7 +149,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ESVRKTET
 
-[Document9]
+[Document7]
 DocumentPath=74HC595D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -200,7 +166,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QGWRKFYF
 
-[Document10]
+[Document8]
 DocumentPath=74HC595D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -217,7 +183,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BBSORQKF
 
-[Document11]
+[Document9]
 DocumentPath=TIP41C.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -234,7 +200,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGGGFQOF
 
-[Document12]
+[Document10]
 DocumentPath=TIP41C.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -250,6 +216,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XYNWGACK
+
+[Document11]
+DocumentPath=Giang_Schematic_Libs.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TJAEUAJP
+
+[Document12]
+DocumentPath=Giang_PCB_Libs.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LMVRCVSW
 
 [OutputGroup1]
 Name=Netlist Outputs
